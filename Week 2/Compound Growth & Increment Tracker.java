@@ -1,4 +1,4 @@
-public class SavingsInterest {
+public class Main{
     public static void main(String[] args) {
         double balance = 1000;
         System.out.println("Starting balance: " + balance);
