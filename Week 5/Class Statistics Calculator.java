@@ -1,4 +1,4 @@
-public class ScoreAnalyzer {
+public class Main {
     public static void main(String[] args) {
         int[] scores = {85, 92, 78, 64, 99, 71, 88, 90};
         int sum = 0;
