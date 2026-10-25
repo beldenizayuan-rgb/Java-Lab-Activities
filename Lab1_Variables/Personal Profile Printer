@@ -1,0 +1,16 @@
+public class MyInfoDisplay {
+    public static void main(String[] args) {
+        String name = "Yuan Anton A. Beldeniza";
+        int age = 19;
+        double height = 1.67;
+        char initial = 'A';
+        boolean student = true;
+
+        System.out.println("My Profile");
+        System.out.println("Name: " + name);
+        System.out.println("Initial: " + initial);
+        System.out.println("Age: " + age);
+        System.out.println("Height: " + height + "m");
+        System.out.println("Student: " + student);
+    }
+}
