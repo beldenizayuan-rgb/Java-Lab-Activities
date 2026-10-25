@@ -1,9 +1,9 @@
 public class MyInfoDisplay {
     public static void main(String[] args) {
-        String name = "Juan Dela Cruz";
+        String name = "Yuan Anton A. Beldeniza";
         int age = 19;
-        double height = 1.70;
-        char initial = 'J';
+        double height = 1.67;
+        char initial = 'A';
         boolean student = true;
 
         System.out.println("My Profile");
