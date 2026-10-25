@@ -1,4 +1,4 @@
-public class PriceDiscount {
+public class Main {
     public static void main(String[] args) {
         double purchaseAmount = 3500;
         double discount;
