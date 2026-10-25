@@ -16,7 +16,7 @@ class Student {
     }
 }
 
-public class TopStudents {
+public class Main {
     public static void main(String[] args) {
         String[] names = {"Ana", "Ben", "Carlo", "Dina", "Ella"};
         int[][] data = {
