@@ -4,12 +4,14 @@ public class Main {
         b++;
         System.out.println("byte after 127 + 1 = " + b);
 
-        String a = new String("java");
-        String c = new String("java");
-        String d = "java";
-
+        String a = new String("hola");
+        String c = new String("hola");
+        String d = "hola";
+        // a, c are different objects
         System.out.println("a == c " + (a == c));
+        // a, d have different references
         System.out.println("a == d " + (a == d));
+        // c,d are also have different references
         System.out.println("c == d " + (c == d));
         System.out.println("a.equals(c) " + a.equals(c));
         System.out.println("a.equals(d) " + a.equals(d));
