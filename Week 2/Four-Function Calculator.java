@@ -14,5 +14,7 @@ public class Main{
         System.out.println("Product: " + (num1 * num2));
         System.out.println("Quotient: " + (num1 / num2));
         System.out.println("Remainder: " + (num1 % num2));
+        // Negative numbers can affect division and remaider
     }
+
 }
