@@ -1,4 +1,4 @@
-public class PassingScoreCheck {
+public class Main {
     public static void main(String[] args) {
         double average = 82.5;
         int absences = 5;
