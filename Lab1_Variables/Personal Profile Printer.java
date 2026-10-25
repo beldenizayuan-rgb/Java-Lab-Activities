@@ -1,4 +1,4 @@
-public class MyInfoDisplay {
+public class Main {
     public static void main(String[] args) {
         String name = "Yuan Anton A. Beldeniza";
         int age = 19;
