@@ -1,4 +1,4 @@
-public class GradeRemarks {
+public class Main {
     public static void main(String[] args) {
         int score = 72;
 
